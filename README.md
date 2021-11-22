@@ -9,7 +9,7 @@ It had a very bad "presentation of the rules" so hopefully the ones below are ex
   - whenever you find a character (for simplicity, it's always the same, "E"), remove the LOWEST value in the list so far
   - at the end, the output has to be all of the "removed" elements
 
-*Additional rule, the program never gives you a "character" if you're lacking an integer to "remove"*
+**Additional rule, the program never gives you a "character" if you're lacking an integer to "remove"**
 
 test file has 3 test cases for this code
 
